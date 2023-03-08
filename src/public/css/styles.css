@@ -1,0 +1,68 @@
+a {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.box {
+    text-align: center;
+    padding-top: 20px;
+}
+
+body {
+    background: #eee
+}
+
+.date {
+    font-size: 11px
+}
+
+.comment-text {
+    font-size: 12px
+}
+
+.fs-12 {
+    font-size: 12px
+}
+
+.shadow-none {
+    box-shadow: none
+}
+
+.name {
+    color: #007bff
+}
+
+.cursor:hover {
+    color: blue
+}
+
+.cursor {
+    cursor: pointer
+}
+
+.textarea {
+    resize: none
+}
+
+.padding50 {
+    padding: 50px;
+}
+
+.img {
+    width: auto;
+    max-width: 900px;
+    max-height: 600px;
+}
+
+.thumb-img {
+    width: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
